@@ -1,0 +1,6 @@
+streamlit
+pyzbar
+pillow
+opencv-python-headless
+python-dotenv
+google-generativeai
