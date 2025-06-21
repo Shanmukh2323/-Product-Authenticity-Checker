@@ -52,6 +52,6 @@ streamlit run app.py
 
 📜 License
 MIT License.
-
-![Screenshot 2025-06-21 160427](https://github.com/user-attachments/assets/44e8ff10-3622-427f-948c-e4f0848f279e)
 ![Screenshot 2025-06-21 160357](https://github.com/user-attachments/assets/7164e7aa-f8ba-4c95-8763-931e4131f274)
+![Screenshot 2025-06-21 160427](https://github.com/user-attachments/assets/44e8ff10-3622-427f-948c-e4f0848f279e)
+
